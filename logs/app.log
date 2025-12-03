@@ -1,0 +1,123 @@
+2025-12-01 18:59:22 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\crossBrowserTesting.xml
+
+2025-12-01 18:59:30 INFO  testCases.TestCase_003_LoginDDT - ***** Starting Data Driven Login Test *****
+2025-12-01 18:59:34 INFO  testCases.TestCase_003_LoginDDT - VALID data → Login SUCCESS → Test PASS
+2025-12-01 18:59:35 INFO  testCases.TestCase_003_LoginDDT - ***** Finished Data Driven Login Test *****
+2025-12-01 18:59:35 INFO  testCases.TestCase_003_LoginDDT - ***** Starting Data Driven Login Test *****
+2025-12-01 18:59:48 INFO  testCases.TestCase_003_LoginDDT - INVALID data → Login FAILED → Test PASS
+2025-12-01 18:59:48 INFO  testCases.TestCase_003_LoginDDT - ***** Finished Data Driven Login Test *****
+2025-12-01 19:47:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\gruping.xml
+
+2025-12-01 19:48:09 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 19:48:11 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 19:48:13 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-01 19:48:21 INFO  testCases.TestCase_002_Login - ***** Starting Login Test *****
+2025-12-01 19:48:22 INFO  testCases.TestCase_002_Login - Credentials entered
+2025-12-01 19:49:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\gruping.xml
+
+2025-12-01 19:49:15 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 19:49:16 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 19:49:19 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-01 19:49:26 INFO  testCases.TestCase_002_Login - ***** Starting Login Test *****
+2025-12-01 19:49:28 INFO  testCases.TestCase_002_Login - Credentials entered
+2025-12-01 21:22:10 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\master.xml
+
+2025-12-01 21:22:49 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 21:22:52 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 21:22:55 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-01 21:35:11 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\master.xml
+
+2025-12-01 21:35:34 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 21:35:37 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 21:35:41 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-01 22:50:06 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\master.xml
+
+2025-12-01 22:50:28 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 22:50:30 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 22:50:33 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-01 22:51:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\master.xml
+
+2025-12-01 22:51:52 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 22:51:55 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 22:51:55 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 22:51:56 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 22:51:56 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 22:51:56 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 22:51:56 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 22:51:56 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 22:51:56 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 22:51:59 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-01 22:55:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\crossBrowserTesting.xml
+
+2025-12-01 22:55:43 INFO  testCases.TestCase_003_LoginDDT - ***** Starting Data Driven Login Test *****
+2025-12-01 22:56:02 ERROR testCases.TestCase_003_LoginDDT - VALID data → Login FAILED → Test FAIL
+2025-12-01 22:56:02 INFO  testCases.TestCase_003_LoginDDT - ***** Starting Data Driven Login Test *****
+2025-12-01 22:56:14 INFO  testCases.TestCase_003_LoginDDT - INVALID data → Login FAILED → Test PASS
+2025-12-01 22:56:14 INFO  testCases.TestCase_003_LoginDDT - ***** Finished Data Driven Login Test *****
+2025-12-01 23:07:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\deepa.jangid\Documents\OpenCartHybridBasic\master.xml
+
+2025-12-01 23:07:50 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-01 23:07:51 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-01 23:07:54 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-02 22:04:04 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-12-02 22:04:06 INFO  testCases.TestCase_001_AccountRegistration - Entered the First Name
+2025-12-02 22:04:06 INFO  testCases.TestCase_001_AccountRegistration - Entered the Last Name
+2025-12-02 22:04:06 INFO  testCases.TestCase_001_AccountRegistration - Entered the Address
+2025-12-02 22:04:06 INFO  testCases.TestCase_001_AccountRegistration - Entered the City
+2025-12-02 22:04:06 INFO  testCases.TestCase_001_AccountRegistration - Entered the State
+2025-12-02 22:04:07 INFO  testCases.TestCase_001_AccountRegistration - Entered the Zip Code
+2025-12-02 22:04:07 INFO  testCases.TestCase_001_AccountRegistration - Entered the Phone Number
+2025-12-02 22:04:07 INFO  testCases.TestCase_001_AccountRegistration - Entered the SSN
+2025-12-02 22:04:10 INFO  testCases.TestCase_001_AccountRegistration - Finished Verify Account Registration
+2025-12-03 07:04:14 INFO  testCases.TestCase_001_AccountRegistration - *****Starting Verify Account Registration****

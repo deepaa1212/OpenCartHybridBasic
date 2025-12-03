@@ -1,0 +1,4 @@
+2025-12-01 16:49:36 [main] INFO  TestCase_002_Login - ***** Starting Login Test *****
+2025-12-01 16:49:38 [main] INFO  TestCase_002_Login - Credentials entered
+2025-12-01 16:49:38 [main] INFO  TestCase_002_Login - Welcome message verified
+2025-12-01 16:49:38 [main] INFO  TestCase_002_Login - ***** Login Test Passed *****

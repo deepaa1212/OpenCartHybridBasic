@@ -1,0 +1,10 @@
+2025-11-30 19:49:28 [main] INFO  TestCase_001_AccountRegistration - *****Starting Verify Account Registration****
+2025-11-30 19:49:29 [main] INFO  TestCase_001_AccountRegistration - Entered the First Name
+2025-11-30 19:49:29 [main] INFO  TestCase_001_AccountRegistration - Entered the Last Name
+2025-11-30 19:49:29 [main] INFO  TestCase_001_AccountRegistration - Entered the Address
+2025-11-30 19:49:29 [main] INFO  TestCase_001_AccountRegistration - Entered the City
+2025-11-30 19:49:29 [main] INFO  TestCase_001_AccountRegistration - Entered the State
+2025-11-30 19:49:29 [main] INFO  TestCase_001_AccountRegistration - Entered the Zip Code
+2025-11-30 19:49:30 [main] INFO  TestCase_001_AccountRegistration - Entered the Phone Number
+2025-11-30 19:49:30 [main] INFO  TestCase_001_AccountRegistration - Entered the SSN
+2025-11-30 19:49:32 [main] INFO  TestCase_001_AccountRegistration - Validating Registration Status

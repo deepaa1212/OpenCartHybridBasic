@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+
+
+    <test name="FunctionalTests">
+        <parameter name="OS" value="Windows"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+
+        <classes>
+            <!-- <class name="testCases.TestCase_001_AccountRegistration"/> -->
+            <!-- <class name="testCases.TestCase_002_Login"/> -->
+            <class name="testCases.TestCase_003_LoginDDT"/>
+
+        </classes>
+    </test>
+
+</suite>
